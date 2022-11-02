@@ -20,7 +20,4 @@ function calculateGrade(marks) {
     return "Input number between 1-100";
  }
  }
- let result = calculateGrade(70);
-
- console.log(result);
   module.exports =calculateGrade
